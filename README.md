@@ -1,7 +1,7 @@
 
 # <p align="center"> 👋 Hi, I’m Tanvir Hossain Parvin
 
-# 💫 About Me:
+💫 About Me:
 
 I am a first-year student computer science student at Goldsmiths, University of London. Beyond my academic pursuits, I am deeply passionate about exploring the vast landscape of computer science and its potential to shape the future.
 
