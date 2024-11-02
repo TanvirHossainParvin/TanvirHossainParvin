@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-I am a first-year student computer science student at Goldsmiths, University of London. Beyond my academic pursuits, I am deeply passionate about exploring the vast landscape of computer science and its potential to shape the future.
+I am a second-year student computer science student at Goldsmiths, University of London. Beyond my academic pursuits, I am deeply passionate about exploring the vast landscape of computer science and its potential to shape the future.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanvirhossainparvin/) 
